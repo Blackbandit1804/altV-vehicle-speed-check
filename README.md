@@ -1,4 +1,4 @@
-# alt:V speedometer (minimalistic)
+# alt:V vehicle speed check
 
 [![](http://img.youtube.com/vi/1zN9RdDPJwA/0.jpg)](http://www.youtube.com/watch?v=1zN9RdDPJwA "Preview")
 
